@@ -18,12 +18,12 @@ The preparation of the environment is very simple, ** as it does not have a huge
 ------------
 # Portuguese
 
-#Definição
+# Definição
 Esse sistema tem como objetivo mostrar como funciona o paradigma funcional, com funções que se encaixam perfeitamente e de uso avançado, como por exemplo pipes, composes,	partialize entre outros tipos de funções que auxiliam na complexidade do código.
 
 # Requisitos
 - Nodejs
 
-#Como preparar o ambiente
+# Como preparar o ambiente
 A preparação do ambiente é bem simples, **como não tem um conjunto enorme de dependências eu fiz o upload da pasta node_modules**, isso significa que não é necessário utilizar o comando `npm install`. Sendo somente necessário navegar para a pasta do projeto e digitar `npm start` depois abrir o navegador e digitar **http://localhost:3000**
 
