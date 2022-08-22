@@ -12,8 +12,8 @@ This system aims to show how to work the functional paradigm, functions that fit
 # Requiriments
 - Nodejs
 
-#How to setup the environment
-The preparation of the environment is very simple, ** as it does not have a huge set of dependencies I have uploaded the folder node_modules **, this means that it is not necessary to use the `npm install` command. You only need to navigate to the project folder and type `npm start` after  opening your browser and typing ** http://localhost:3000 **
+# How to setup the environment
+The preparation of the environment is very simple, **as it does not have a huge set of dependencies I have uploaded the folder node_modules**, this means that it is not necessary to use the `npm install` command. You only need to navigate to the project folder and type `npm start` after  opening your browser and typing **http://localhost:3000**
 
 ------------
 # Portuguese
